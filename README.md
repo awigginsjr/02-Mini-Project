@@ -9,5 +9,10 @@
 * Used flexbox and media queries to create a responsive grid layout.
 
 ## Screenshot
+<img src=./assets/css/images/02-Mini-Project.png alt=screenshot/>
 
 ## Links
+
+(https://github.com/awigginsjr/02-Mini-Project.git)
+
+(https://awigginsjr.github.io/02-Mini-Project/)
