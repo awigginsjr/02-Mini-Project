@@ -9,7 +9,7 @@
 * Used flexbox and media queries to create a responsive grid layout.
 
 ## Screenshot of Site
-<img scr="./assets/images/miniproject2.png" alt="screenshot"/>
+![] (image/miniproject2.png/)
 
 ## Links
 
